@@ -1,0 +1,13 @@
+
+body {
+    /* Use a custom font with contrast for the colors (2) */
+    color:#1c3950;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+.jumbotron {
+    /* Add an image to the jumbotron*/
+    background-image: url("../images/white-and-blue.jpeg");
+    background-size: 180% 180%;
+    text-align: center;
+}
